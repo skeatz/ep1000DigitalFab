@@ -1,4 +1,4 @@
-**Project Management, Web Development & Version Control**
+## Project Management, Web Development & Version Control
 1. Project Management Principles
    * [Triage](https://jeffschwisow.com/how-triage-will-keep-your-projects-from-killing-you-2/): critical, serious, dying
    * Demand- vs supply-side time management
@@ -51,13 +51,25 @@
    * [Git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 5. Blogs, Wikis and Content Management Systems
    * [GitBook](https://www.gitbook.com/)
-   * [DocuWiki](https://www.dokuwiki.org/dokuwiki)
+   * [DokuWiki](https://www.dokuwiki.org/dokuwiki)
+     - [DokuWiki manual](https://www.dokuwiki.org/manual)
+     - [DokuWiki Tutorial](https://www.youtube.com/playlist?list=PLRbr75d0SxpdC-Xe844r_afMtLZrUQ1Eg)
+     - [Create a Website like Wikipediai](https://www.youtube.com/watch?v=I7L6_E4YTRA) 
    * [WordPress](https://wordpress.com/)
+     -[WordPress Quick Start Guide](https://wordpress.com/learn/courses/getting-started/quick-start-guide/)
+     - [WordPress Tutorial for Beginners](https://www.youtube.com/watch?v=kYY88h5J86A)
+     - [Build a WordPress Website in 10 minutes](https://www.youtube.com/watch?v=cVcaJB5vU7s)
+     - [WordPress Website Tutorial Step-by-Step](https://www.youtube.com/watch?v=LMVEzg82pnU) 
    * [Drupal](https://www.drupal.org/home)
    * [Moodle](https://moodle.org/)
    * [Wix](https://www.wix.com/)
+     - [Wix Tutorial for Beginners](https://www.tooltester.com/en/blog/wix-tutorial/)
+     - [Step-by-Step Beginner Tutorial](https://www.youtube.com/watch?v=YxpjW-Mq96Q)
+     - [Blog Tutorial](https://www.youtube.com/watch?v=esvR6Es3Uag&t=205s)
+     - [Build Your Website with Wix Editor](https://www.wix.com/learn/courses/web-design/build-your-website-with-the-wix-editor) 
    * [Blogger](https://www.blogger.com/about/)
-6. Assignment
+
+### Assignment
    - Create a personal website containing as a minimum:
       - header section
       - main section
@@ -69,7 +81,8 @@
       - contact page
       - separate pages for each topic
    - Document the process/method used to create your personal website
-   
+<p>
    ![Basic webpage](../images/03_basic-webpage.png)
-   
+<br>   
    [Sample Website Template (zipped)](resources/website-template.zip)
+</p>   
