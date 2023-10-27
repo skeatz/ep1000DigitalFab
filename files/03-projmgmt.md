@@ -63,6 +63,7 @@
    * [Drupal](https://www.drupal.org/home)
    * [Moodle](https://moodle.org/)
    * [Wix](https://www.wix.com/)
+     - [10 Essential Tutorials](https://www.wix.com/blog/10-wix-essential-tutorials)
      - [Wix Tutorial for Beginners](https://www.tooltester.com/en/blog/wix-tutorial/)
      - [Step-by-Step Beginner Tutorial](https://www.youtube.com/watch?v=YxpjW-Mq96Q)
      - [Blog Tutorial](https://www.youtube.com/watch?v=esvR6Es3Uag&t=205s)
