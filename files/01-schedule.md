@@ -7,9 +7,9 @@
 |:-----:|:------------|--------|--------|
 | 1     | 20 Oct 2023 | Introduction, Fablab Safety, Documentation |
 | 2     | 27 Oct 2023 | Fablab Safety Quiz, CAD & 2D Graphics |
-| 3     | 3 Nov 2023  | 2D Design & Laser Cutting | 13 Nov - Diwali |
+| 3     | 3 Nov 2023  | 2D Design & Laser Cutting | 
 | 4     | 10 Nov 2023  | Laser Cutting: Quiz, Practical Evaluation & Assignment |
-| 5     | 17 Nov 2023 | 3D CAD, Introduction to Fusion 360 |
+| 5     | 17 Nov 2023 | 3D CAD, Introduction to Fusion 360 | 13 Nov - Diwali |
 | 6     | 24 Nov 2023 | 3D Design & Modelling Techniques |
 | 7     | 1 Dec 2023 | Introduction to 3D Printing, 3D Printing Exercises |
 | 8     | 8 Dec 2023  | 3D Printing Quiz, Practical Evaluation & Assignment | MST Week (classes as per normal) |
