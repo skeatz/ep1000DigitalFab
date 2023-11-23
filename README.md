@@ -68,3 +68,4 @@ Assessment will be based on exercises and projects through three in-course asses
 - [2020 Sem 2](class/2020-S2/README.md)
 - [2021 Sem 1](class/2021-S1/ep1000_ay21s1_gp2.md)
 - [2021 Sem 2](class/2021-S2/ep1000_ay21s2_gp1.md)
+- [2023 Sem 2](class/2023-S2/ep1000_ay23s2_gp2.md)
