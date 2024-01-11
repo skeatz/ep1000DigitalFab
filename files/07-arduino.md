@@ -81,8 +81,8 @@
 *Tutorials to Get You Started - Tinkercad Circuits*
 - [Official Guide to Tinkercad Circuits](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits)
 - [Learn Tinkercad Circuits](https://www.tinkercad.com/learn/circuits)
-- [Tinkercad Circuits Tutorials](https://www.youtube.com/watch?v=3kDMYomFw5o)
-- [Tinkercad Circuits Tutorials](https://www.youtube.com/playlist?list=PLV6cmKvnKRs5geApVORPW79U6s3wpa0Ht)
+- [Tinkercad Circuits Tutorials - Autodesk](https://www.youtube.com/playlist?list=PLV6cmKvnKRs5geApVORPW79U6s3wpa0Ht)
+- [Tinkercad Circuits Tutorials - Mr Z](https://www.youtube.com/playlist?list=PLB7m7EWHl0xy2rCtv_qbgvLqo2JtNdXrz)
 - [Autodesk Circuits Tutorials](https://www.youtube.com/watch?v=OCmeyJA5IRk&list=PLu8TYSQ5jCFho31LxXCoEBlL3x94l6mLc)
 
 ## Sample Arduino Code
